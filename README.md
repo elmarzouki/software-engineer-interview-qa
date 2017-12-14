@@ -5,8 +5,8 @@ A number of Full Stack Engineer interview questions and answers
 
   1. [General Questions](#general)
 
-#### [1](#general) <a name='general'>General Questions:</a>
-    * What is *polymorphism*?
-    * What is *encapsulation*?
-    * What is *inversion of control*?
+#### [[1]](#general) <a name='general'>General Questions:</a>
+    + What is *polymorphism*?
+    + What is *encapsulation*?
+    + What is *inversion of control*?
 

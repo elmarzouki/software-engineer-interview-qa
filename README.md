@@ -29,7 +29,8 @@ A number of Software Engineer interview questions and answers
     + Design patterns. 
         - Creational: Builder, Object Pool, Factory Method, Signleton, Multiton, Prototype, Abstract Factory.
         - Structural: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.
-        - Behavioral: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy.
+        - Behavioral: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, 
+                        Observer, State, Strategy.
     + 3-tier architecture?
         - Presentation tier.
         - Application tier.
@@ -39,5 +40,7 @@ A number of Software Engineer interview questions and answers
         - Business (Service) layer.
         - Controller).
     + What is REST?
-    + Idempotent operation EX: The PUT and DELETE methods are referred to as idempotent, meaning that the operation will produce the same result no matter how many times it is repeated.
-    + nullipotent operation EX: GET method is a safe method (or nullipotent), meaning that calling it produces no side-effects.
+    + Idempotent operation EX: The PUT and DELETE methods are referred to as idempotent, 
+        meaning that the operation will produce the same result no matter how many times it is repeated.
+    + nullipotent operation EX: GET method is a safe method (or nullipotent), 
+        meaning that calling it produces no side-effects.
